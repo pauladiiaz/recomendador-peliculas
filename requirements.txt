@@ -1,2 +1,6 @@
 streamlit
 pandas
+scikit-surprise
+gdown
+pickle5
+matplotlib
